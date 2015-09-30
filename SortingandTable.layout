@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Actor_list.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4489" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="include/Node.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1364" topLine="83" />
+		</Cursor>
+	</File>
+	<File name="include/Edge.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="src/Node.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3296" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src/DataAnalytics.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2283" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="src/Edge.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1443591379 source:/home/artist/workspace/SDFGenerator/SortingandTable/Actor_list.cpp
+	"DataAnalytics.h"
+	<algorithm>
+	<cstdlib>
+
+1443589114 source:/home/artist/workspace/SDFGenerator/SortingandTable/src/DataAnalytics.cpp
+	"DataAnalytics.h"
+
+1443591361 /home/artist/workspace/SDFGenerator/SortingandTable/include/DataAnalytics.h
+	"Node.h"
+	"Edge.h"
+	<exception>
+	<stdexcept>
+	<map>
+	<list>
+
+1442276692 /home/artist/workspace/SDFGenerator/SortingandTable/include/Node.h
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<vector>
+
+1443588846 /home/artist/workspace/SDFGenerator/SortingandTable/include/Edge.h
+	"Node.h"
+	<utility>
+
+1443588894 source:/home/artist/workspace/SDFGenerator/SortingandTable/src/Edge.cpp
+	"Edge.h"
+	<string>
+
+1442276738 source:/home/artist/workspace/SDFGenerator/SortingandTable/src/Node.cpp
+	"Node.h"
+

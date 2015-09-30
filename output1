@@ -1,0 +1,29 @@
+Frequent 1-itemsets:
+itemset (occurrence)
+{} (100)
+Frequent 1-itemsets:
+itemset (occurrence)
+c_16_1 (5)
+v_32_32 (5)
+m_1_16 (5)
+x_1_16 (5)
+u_8_16 (5)
+f_16_16 (5)
+t_16_8 (5)
+d_16_1 (5)
+t_32_8 (5)
+g_32_8 (5)
+w_16_16 (5)
+h_16_16 (5)
+q_32_16 (5)
+d_16_32 (6)
+o_16_32 (6)
+v_1_16 (6)
+b_1_1 (6)
+g_1_32 (7)
+i_8_16 (7)
+u_32_16 (7)
+
+
+Association rules:
+condition ==> consequence (confidence, occurrence)
